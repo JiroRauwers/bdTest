@@ -8,18 +8,6 @@
   "social": [
     {
       "show": true,
-      "order": 1,
-      "icon": "w",
-      "href": ""
-    },
-    {
-      "show": false,
-      "order": 4,
-      "icon": "f",
-      "href": ""
-    },
-    {
-      "show": true,
       "order": 0,
       "icon": "i",
       "href": ""
