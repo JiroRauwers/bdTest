@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "This user dont exist",
+    "profilePicture": ""
+  },
+  "social": [],
+  "links": [
+    {
+      "order": 0,
+      "name": "no User",
+      "href": ""
+    }
+  ]
+}

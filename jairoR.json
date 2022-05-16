@@ -1,0 +1,56 @@
+{
+  "user": {
+    "name": "Jairo Bernardo B Rauwers",
+    "creci": "5555555",
+    "province": "SC",
+    "profilePicture": "/jairoR.jpeg"
+  },
+  "social": [
+    {
+      "show": true,
+      "order": 1,
+      "icon": "w",
+      "href": ""
+    },
+    {
+      "show": false,
+      "order": 4,
+      "icon": "f",
+      "href": ""
+    },
+    {
+      "show": true,
+      "order": 0,
+      "icon": "i",
+      "href": ""
+    },
+    {
+      "show": true,
+      "order": 0,
+      "icon": "t",
+      "href": ""
+    },
+    {
+      "show": true,
+      "order": 0,
+      "icon": "y",
+      "href": ""
+    }
+  ],
+  "links": [
+    {
+      "order": 1,
+      "name": "custom link youtube",
+      "href": "https://www.youtube.com/watch?v=68LaXOWwxZI",
+      "icon": {
+        "icon": "y",
+        "start": true
+      }
+    },
+    {
+      "order": 1,
+      "name": "custom link youtube",
+      "href": "https://www.youtube.com/watch?v=68LaXOWwxZI"
+    }
+  ]
+}
