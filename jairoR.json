@@ -28,7 +28,7 @@
   "links": [
     {
       "order": 1,
-      "name": "custom link youtube",
+      "name": "purge",
       "href": "https://www.youtube.com/watch?v=68LaXOWwxZI",
       "icon": {
         "icon": "y",
