@@ -1,0 +1,13 @@
+{
+  "palette": {
+    "text": {
+      "primary": "#F1EDFF"
+    },
+    "primary": {
+      "main": "#F1EDFF"
+    },
+    "background": {
+      "default": "linear-gradient(#122c80 0%, #0076B4 100% )"
+    }
+  }
+}
