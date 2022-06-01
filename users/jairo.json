@@ -5,6 +5,7 @@
     "__ColorSecondary": "#f1eded"
   },
   "Config": {},
+  "css":"",
   "Page": [
     {
       "type": "UserProfile",
@@ -12,7 +13,7 @@
         "name": "__Username",
         "profilePicture": "/jairor.jpeg"
       },
-      "style": ""
+      "Style": [{"className": "avatar"}, {"className": "avatarImg"}]
     },
     {
       "type": "SocialButtons",
