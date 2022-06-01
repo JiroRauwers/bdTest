@@ -1,0 +1,37 @@
+{
+  "Vars": {
+    "__Username": "Jairo Bernardo Brum Rauwers",
+    "__ColorPrimary": "#F1Ed10",
+    "__ColorSecondary": "#f1eded"
+  },
+  "Config": {},
+  "Page": [
+    {
+      "type": "UserProfile",
+      "data": {
+        "name": "__Username",
+        "profilePicture": "/jairor.jpeg"
+      },
+      "style": ""
+    },
+    {
+      "type": "SocialButtons",
+      "data": [
+        {
+          "href": "",
+          "icon": "W"
+        }
+      ],
+      "style": ""
+    },
+    {
+      "type": "LinkTree",
+      "data": [
+        {
+          "href": "https://www.youtube.com/watch?v=68LaXOWwxZI",
+          "name": "Exemplo botao youtube"
+        }
+      ]
+    }
+  ]
+}
